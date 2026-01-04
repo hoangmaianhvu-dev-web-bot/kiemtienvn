@@ -1,0 +1,7 @@
+{
+  "name": "GameRewards - Làm Nhiệm Vụ Kiếm Quà",
+  "description": "Nền tảng làm nhiệm vụ link rút gọn để nhận Quân Huy, Kim Cương và tiền mặt hoàn toàn miễn phí.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
